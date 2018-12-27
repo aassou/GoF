@@ -1,6 +1,6 @@
 <?php
 
-namespace GoF\Creational\AbstractFactory;
+namespace GoF\Creational\AbstractFactory\Buttons;
 
 $submitFactory = new SubmitFactory();
 $resetFactory = new ResetFactory();
