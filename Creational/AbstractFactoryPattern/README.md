@@ -8,4 +8,7 @@ You can find a PHP implementation of this pattern in the current folder:
 
 +GoF   
     &nbsp;&nbsp;&nbsp;&nbsp;+Creational   
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+AbstractFactory.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+AbstractFactory.   
+        
+        
+![Abstract Factory Pattern Class Diagram](UML/AbstractFactoryClassDiagram.png)        
