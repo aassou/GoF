@@ -1,4 +1,4 @@
-# The Abstract Factory Pattern
+# Abstract Factory Pattern
 
 The Abstract factory is a pattern that abstractes the creation of families of dependent objects.
 
